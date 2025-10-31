@@ -24,8 +24,8 @@
 ---
 
 ### ⚙️ GitHub Stats
-![Mr.K's GitHub stats](https://github-readme-stats.vercel.app/api?Mr-Young-62=Mr-Young-62&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Mr-Young-62=Mr-Young-62&layout=compact&theme=tokyonight)
+![Mr.K's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrkdev&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrkdev&layout=compact&theme=tokyonight)
 
 ---
 
